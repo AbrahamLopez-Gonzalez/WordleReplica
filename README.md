@@ -1,2 +1,3 @@
 # WordleReplica
-In the current project the goal is to replicate wordle the best posible (this is a project in progress).
+The current project aims to replicate Wordle the best possible (this is a project in progress).
+
